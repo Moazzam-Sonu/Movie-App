@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-movie-app",
-    "slug": "rn-movie-app",
+    "name": "Learn movies",
+    "slug": "Learn movies",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
